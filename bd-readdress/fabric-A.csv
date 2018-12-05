@@ -1,0 +1,7 @@
+tenant-name,bd-name,bd-mac-addr,bd-flood-unicast,bd-flood-multicast,bd-flood-arp,bd-routing,bd-subnet-addr,bd-subnet-scope,bd-subnet-name
+AmEX-IDN,BD01,00:22:BD:F8:19:FF,proxy,flood,no,yes,90.1.1.1/24,public,
+AmEX-IDN,BD_10_23_28_1,00:22:BD:F8:19:FF,proxy,flood,no,yes,10.23.28.1/24,public,
+AmEX-IDN,10_33_38_1_DB_BD,00:22:BD:F8:19:FF,proxy,flood,no,yes,10.33.38.1/24,public,
+infra,default,00:22:BD:F8:19:FF,proxy,flood,no,yes,10.0.0.30/27,private,
+Test01,SJCBD2,00:22:BD:F8:19:FF,flood,flood,yes,yes,192.168.68.1/24,private,
+Test01,SJCBD1,00:22:BD:F8:19:FF,flood,flood,yes,yes,192.168.66.1/24,private,
